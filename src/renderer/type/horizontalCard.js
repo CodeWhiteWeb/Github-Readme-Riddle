@@ -32,7 +32,6 @@ const renderHorizontal = ({ riddle, answer, color }) => {
                 .container p {
                 /* float: right; */
                 /* margin-right: 20px; */
-                font-style: italic;
                 padding: 5px;
                 text-align: right;
                 color: #${color.answer};
@@ -40,7 +39,7 @@ const renderHorizontal = ({ riddle, answer, color }) => {
             </style>
             <div class="container">
                 <h3> ${riddle}</h3>
-                <p>- ${answer}</p>
+                <p>Ans: ${answer}</p>
             </div>
         </div>
     </foreignObject>
