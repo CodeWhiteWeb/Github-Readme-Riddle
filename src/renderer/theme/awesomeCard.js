@@ -3,68 +3,57 @@ const themes = {
   light: {
     riddle: '333',
     answer: '2f80ed',
-    background: 'fffefe',
-    symbol: '4c71f2'
+    background: 'fffefe'
   },
   dark: {
     riddle: '9f9f9f',
     answer: 'fff',
-    background: '151515',
-    symbol: '79ff97'
+    background: '151515'
   },
   'chartreuse-dark': {
     riddle: 'fff',
     answer: '7fff00',
-    background: '000',
-    symbol: '00AEFF'
+    background: '000'
   },
   radical: {
     riddle: 'a9fef7',
     answer: 'fe428e',
-    background: '141321',
-    symbol: 'f8d847'
+    background: '141321'
   },
   merko: {
     riddle: '68b587',
     answer: 'abd200',
-    background: '0a0f0b',
-    symbol: 'b7d364'
+    background: '0a0f0b'
   },
   gruvbox: {
     riddle: '8ec07c',
     answer: 'fabd2f',
-    background: '282828',
-    symbol: 'fe8019'
+    background: '282828'
   },
   tokyonight: {
     riddle: '38bdae',
     answer: '70a5fd',
-    background: '1a1b27',
-    symbol: 'bf91f3'
+    background: '1a1b27'
   },
   catppuccin: {
     riddle: '96CDFB',
     answer: 'D9E0EE',
-    background: '161320',
-    symbol: 'DDB6F2'
+    background: '161320'
   },
   algolia: {
     riddle: '00ADFE',
     answer: 'FEFEFE',
-    background: '050F2C',
-    symbol: '26BB85'
+    background: '050F2C'
   },
   monokai: {
     riddle: 'EA1F6A',
     answer: 'CFCFC9',
-    background: '272822',
-    symbol: 'E18905'
+    background: '272822'
   },
   dracula: {
     riddle: 'F8F8F2',
     answer: '6272A4',
-    background: '282A36',
-    symbol: 'FF79c6'
+    background: '282A36'
   }
 };
 
