@@ -38,13 +38,12 @@ const renderVertical = ({ riddle, answer, color }) => {
     color: #${color.riddle};
   }
   .container p{
-    font-style: italic;
     color: #${color.answer};
   }
   </style>
   <div class="container">
     <h3>${riddle}</h3>
-    <p>- ${answer}</p>
+    <p>Answer :  ${answer}</p>
   </div>
   </div></foreignObject></svg>`;
   return renderedSVG;
