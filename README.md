@@ -2,7 +2,8 @@
   <img align="center" width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" />
 
   <h1 align="center">Github Readme Riddle</h1>
-  <h3 align="center">Developer Riddle for your Github Readme.</h3>
+  <h3 align="center">Everyday Riddles for your Github Readme.</h3>
+  <h4 align="center">Test your brain everday 😉</h4>
 </p>
 
 <!-- Badges -->
