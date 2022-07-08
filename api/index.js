@@ -3,18 +3,11 @@ const renderSVG = require('../src/renderer/renderSVG');
 
 module.exports = async (req, res) => {
   // Get the queries.
-  const { type, theme, myriddle } = req.query;
+  const { type, theme } = req.query;
 
   // Get the riddles.
   let data;
-  if (myriddle) {
-    data = {
-      riddle: myriddle,
-      answer: 'Me'
-    };
-  } else {
-    data = await fetchRiddle();
-  }
+  data = await fetchRiddle();
 
   // Send the riddle image response.
   res.setHeader('Content-Type', 'image/svg+xml');

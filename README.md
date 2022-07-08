@@ -42,11 +42,10 @@ Copy the markdown below and paste it in your Github Readme.
 
 ### Options
 
-| Options | Default  | Available                                                                             |
-| ------- | -------- | ------------------------------------------------------------------------------------- |
-| type    | vertical | horizontal, vertical                                                                  |
-| theme   | light    | dark, chartreuse-dark, radical, merko, gruvbox, tokyonight, algolia, monokai, dracula |
-| myriddle | -        | Customize your riddle                                                                  |
+| Options | Default  | Available                       |
+| ------- | -------- | --------------------------------|
+| type    | vertical | horizontal, vertical            |
+| theme   | light    | check out [Theme.md](./theme.md)|
 
 ## Installation and Development 🚀
 
@@ -94,41 +93,11 @@ yarn run vercel dev
 
 [![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
-### Catppuccin
+### Other themes
 
-> You need to add **?theme=catppuccin** parameter.
+> You need to add **?theme={theme_name}** parameter.
 
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=catppuccin)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-### Algolia
-
-> You need to add **?theme=algolia** parameter.
-
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=algolia)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-### Monokai
-
-> You need to add **?theme=monokai** parameter.
-
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=monokai)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-### Dracula
-
-> You need to add **?theme=dracula** parameter.
-
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-## Custom
-
-> You need to add **?myriddle=Your riddle** parameter.
-> URL encode your riddle.
-
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?myriddle=My%20riddle)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-## Adding Soon 🚧
-
-- Customization Options
-- More features
+> Check out [Theme.md](./theme.md) for all themes (50+ themes)
 
 ## Contributing 🤝
 
