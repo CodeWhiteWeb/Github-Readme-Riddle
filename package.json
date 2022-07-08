@@ -1,0 +1,19 @@
+{
+  "name": "random-Riddle-github-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"./**/*.{js,json,md}\"",
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.2"
+  },
+  "author": "CodeWhiteWeb",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "vercel": "^23.1.2"
+  }
+}
